@@ -1,2 +1,2 @@
-# Student-Management-System-1
+# Student-Management-System
 A java application, Maintaining and managing the student information by performing CRUD operation.
